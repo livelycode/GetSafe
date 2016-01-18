@@ -15,7 +15,7 @@ Start dev server
 react-native start
 ```
 
-Start Android Emulatur (e.g. [genymotion](https://www.genymotion.com/)), run and connect with
+Start Android emulator (e.g. [genymotion](https://www.genymotion.com/)), run and connect with
 ```
 react-native run-android
 ```
